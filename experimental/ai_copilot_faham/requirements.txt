@@ -1,0 +1,5 @@
+presidio-analyzer
+presidio-anonymizer
+spacy
+openai
+python-dotenv

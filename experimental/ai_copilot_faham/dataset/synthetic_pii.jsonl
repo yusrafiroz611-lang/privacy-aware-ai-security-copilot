@@ -1,0 +1,12 @@
+{"id":"1","text":"Contact Alex Morgan at alex.morgan@example.com","expected_values":["alex.morgan@example.com"]}
+{"id":"2","text":"Call the demo number +1 202-555-0147","expected_values":["+1 202-555-0147"]}
+{"id":"3","text":"Sample PAN: ABCDE1234F","expected_values":["ABCDE1234F"]}
+{"id":"4","text":"Demo Aadhaar-like number: 2345 6789 0123","expected_values":["2345 6789 0123"]}
+{"id":"5","text":"Account number: 123456789012","expected_values":["123456789012"]}
+{"id":"6","text":"Test server IP is 192.0.2.10","expected_values":["192.0.2.10"]}
+{"id":"7","text":"Send a note to demo.user@example.com","expected_values":["demo.user@example.com"]}
+{"id":"8","text":"Please explain how encryption works","expected_values":[]}
+{"id":"9","text":"Jordan Lee needs a meeting reminder","expected_values":[]}
+{"id":"10","text":"Test card number 4111 1111 1111 1111","expected_values":["4111 1111 1111 1111"]}
+{"id":"11","text":"Profile page https://example.com/profile","expected_values":["https://example.com/profile"]}
+{"id":"12","text":"Please explain how to request a refund","expected_values":[]}
