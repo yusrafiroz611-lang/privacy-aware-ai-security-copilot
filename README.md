@@ -46,4 +46,4 @@ npm run dev
 `POST /analyze` with `{"text": "..."}` → `risk_score, high_risk, decision, decision_reason, privacy_detections, privacy_findings, sanitized_text, validation_status, audit_id, timestamp, model_version`. Also `GET /health`.
 
 ## Team
-Add team member names here.
+Yusra, Adarsh, Shravani, Fahham
